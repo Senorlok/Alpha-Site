@@ -1,2 +1,2 @@
 # Alpha-Site
-Testing Website - Public Environment 
+Main testing website; connected to a domain.
